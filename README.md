@@ -33,6 +33,12 @@ Assurez-vous de suivre les meilleures pratiques de sécurité lors de l'utilisat
 
 Les Pull Requests sont les bienvenues. Pour les changements majeurs, veuillez ouvrir une issue d'abord pour discuter de ce que vous souhaitez changer.
 
+## 📜 Auteur
+
+Ievgeniia Kybalchych <https://github.com/GeniaKybalchych/>
+
 ## 📜 Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
